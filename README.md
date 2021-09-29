@@ -1,5 +1,5 @@
 # Pocket-Manager
-A Web App Solution to Secure and Manage Files
+A Web Solution to Secure and Manage Files
 
 
 Using this project user can modify and manage his/her files and folders.
@@ -11,4 +11,5 @@ It has a sign in/ sign out option for users as well. Signed in users get access 
 - Columns: **fname, lname, email and password**
 - These details are in the **login.php** file
 
-A static gitHub page has been added to show the working protoype of the project (The php files won't function. You will need to download and run the project on local host).
+A static [**gitHub page**](https://sagarsikchi.github.io/Pocket-Manager/index.html) has been added to show the working protoype of the project (The php files won't function. You will need to download and run the project on local host).
+
