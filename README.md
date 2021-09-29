@@ -7,8 +7,8 @@ User’s can zip files, compress images, encrypt file or text, generate QR code 
 It has a sign in/ sign out option for users as well. Signed in users get access to advanced features. Temporary users have restricted view and access to the application.
 
 
-Current version uses 1 Table: pocketmanager 
-columns:fname, lname, email and password
-These details are dealt in login.php file
+- Current version uses 1 Table: **pocketmanager** 
+- Columns: **fname, lname, email and password**
+- These details are in the **login.php** file
 
-A static gitHub page has been added to show the working protoype of the project. (The php files wont function. Will need to download and run the project on local host) 
+A static gitHub page has been added to show the working protoype of the project (The php files won't function. You will need to download and run the project on local host).
